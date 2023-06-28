@@ -25,3 +25,8 @@ footer{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+#chapter-8 blockquote p{
+		font-weight: bold;
+	text-align: center;
+}
