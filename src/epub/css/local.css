@@ -26,7 +26,8 @@ footer{
 	display: none;
 }
 
-#chapter-8 blockquote p{
-		font-weight: bold;
+#chapter-8 blockquote{
+	font-variant: small-caps;
 	text-align: center;
+	text-indent: 0;
 }
