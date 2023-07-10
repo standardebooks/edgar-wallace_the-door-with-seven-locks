@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-wallace/the-door-with-seven-locks</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-07-10T00:31:57Z</dc:date>
+		<meta property="dcterms:modified">2023-07-10T00:31:57Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,17 +34,17 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A soon-to-retire Scotland Yard investigator, insulted when asked to investigate the theft of a library book, finds it’s a case he can’t put down.</dc:description>
+		<dc:description id="description">A soon-to-retire Scotland Yard investigator, insulted when asked to investigate the theft of a library book, finds that it’s a case he can’t put down.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;As a practical joke, Sub-Inspector Dick Martin, about to retire, is asked to find a stolen library book. Before long, Dick is intrigued by the nature of the book and the attractiveness of Sybil, the librarian.&lt;/p&gt;
-			&lt;p&gt;Now in private practice, Dick accepts a job that requires him to chase an elusive nobleman, Lord Selford, across the world and is subsequently surprised to find that his favorite librarian is a relative of Lord Selford. Events take a turn when it is learned that a known safe-cracking expert has been murdered after attempting to break into the Selford family crypt. When Dick investigates, he’s attacked by a wild man who appears to be connected to a foreign doctor living near the Selford estate. When Sybil is kidnapped, Dick must join forces with his former police colleagues.&lt;/p&gt;
-			&lt;p&gt;Although containing the locked-room puzzle for which &lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace&lt;/a&gt; was famous, &lt;i&gt;The Door with Seven Locks&lt;/i&gt; also explores the concept of nature versus nurture.&lt;/p&gt;
+			&lt;p&gt;As a practical joke, Sub-Inspector Dick Martin, about to retire, is asked to find a stolen library book. Before long, Dick fins himself intrigued by the nature of the book—and the attractiveness of Sybil, the librarian.&lt;/p&gt;
+			&lt;p&gt;Now in private practice, Dick accepts a job that requires him to chase an elusive nobleman, Lord Selford, across the world and is subsequently surprised to find that his favorite librarian is Selford’s relative. Events take a turn when a safe-cracking expert is murdered after attempting to break into the Selford family crypt, and Dick investigates.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Door with Seven Locks&lt;/i&gt; contains the locked-room puzzle for which &lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace&lt;/a&gt; was famous, but it’s also notable for its exploration of the concept of nature versus nurture.&lt;/p&gt;w
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20190647</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001538494</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">62467</meta>
+		<meta property="se:reading-ease.flesch">74.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Door_with_Seven_Locks</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-door-with-seven-locks</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
@@ -76,6 +76,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
