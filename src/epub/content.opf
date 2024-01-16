@@ -56,7 +56,7 @@
 		<dc:contributor id="artist">Helene Schjerfbeck</dc:contributor>
 		<meta property="file-as" refines="#artist">Schjerfbeck, Helene</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Helene_Schjerfbeck</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">n91019300</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n91019300</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
