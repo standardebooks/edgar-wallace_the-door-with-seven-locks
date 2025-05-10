@@ -43,6 +43,10 @@ footer{
 	font-variant: small-caps;
 }
 
+.telegram{
+	font-variant: all-small-caps;
+}
+
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
