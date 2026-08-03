@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-wallace/the-door-with-seven-locks</dc:identifier>
 		<dc:date>2023-07-10T00:31:57Z</dc:date>
@@ -36,12 +36,12 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A soon-to-retire Scotland Yard investigator, insulted when asked to investigate the theft of a library book, finds that it’s a case he can’t put down.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A soon-to-retire Scotland Yard investigator, insulted when asked to investigate the theft of a library book, finds that it’s a case he can’t put down.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;As a practical joke, Sub-Inspector Dick Martin, about to retire, is asked to find a stolen library book. Before long, Dick finds himself intrigued by the nature of the book—and the attractiveness of Sybil, the librarian.&lt;/p&gt;
 			&lt;p&gt;Now in private practice, Dick accepts a job that requires him to chase an elusive nobleman, Lord Selford, across the world and is subsequently surprised to find that his favorite librarian is Selford’s relative. Events take a turn when a safe-cracking expert is murdered after attempting to break into the Selford family crypt, and Dick investigates.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Door with Seven Locks&lt;/i&gt; contains the locked-room puzzle for which &lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace&lt;/a&gt; was famous, but it’s also notable for its exploration of the concept of nature versus nurture.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20190647</dc:source>
 		<dc:source>https://archive.org/details/doorwithsevenloc0000edga</dc:source>
