@@ -36,7 +36,7 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A soon-to-retire Scotland Yard investigator, insulted when asked to investigate the theft of a library book, finds that it’s a case he can’t put down.</dc:abstract>
+		<meta property="schema:abstract">A soon-to-retire Scotland Yard investigator, insulted when asked to investigate the theft of a library book, finds that it’s a case he can’t put down.</meta>
 		<dc:description>
 			&lt;p&gt;As a practical joke, Sub-Inspector Dick Martin, about to retire, is asked to find a stolen library book. Before long, Dick finds himself intrigued by the nature of the book—and the attractiveness of Sybil, the librarian.&lt;/p&gt;
 			&lt;p&gt;Now in private practice, Dick accepts a job that requires him to chase an elusive nobleman, Lord Selford, across the world and is subsequently surprised to find that his favorite librarian is Selford’s relative. Events take a turn when a safe-cracking expert is murdered after attempting to break into the Selford family crypt, and Dick investigates.&lt;/p&gt;
